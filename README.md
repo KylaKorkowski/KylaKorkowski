@@ -1,7 +1,7 @@
 Hello all! I am Kyla! Here are a few facts about me:
 - I’m currently learning Full Stack Web Development at Bloomtech!
 - I'm am from Hawaii but am current based in Denver, CO.
-- I am generally more of an atristic person I enjoy painting, drawing, singing, and playing ukulele!
+- I am generally more of an artistic person I enjoy painting, drawing, singing, and playing ukulele!
 - I have a sweet black lab named Jake!
 
 I love working hard and learning new things. Codeing provides me with opportunities to go out of my confort zone and challenges me to learn new skills. I look forward to meeting new people in tech and collaborating to make something awesome!
